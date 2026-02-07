@@ -7,53 +7,51 @@
 </br>
 </br>
 
-
 <p>
-  Repositório voltado ao desenvolvimento e documentação de estudos em Automação Industrial, com foco em comandos elétricos, CLP, instrumentação e simulação de processos. O projeto funciona como base técnica e portfólio profissional.
+
+Repository focused on the development and documentation of studies in Industrial Automation, with a focus on electrical controls, PLC, instrumentation and process simulation. The project serves as a technical base and professional portfolio.
+
 </p>
 
-### Escopo
+### Scope
 
-- Automação industrial e elétrica
+- Industrial and electrical automation
 
-- Comandos elétricos e circuitos de potência
+- Electrical controls and power circuits
 
-- Programação de CLP (Ladder / FBD)
+- PLC programming (Ladder / FBD)
 
-- Instrumentação industrial
+- Industrial instrumentation
 
-- Inversores de frequência
+- Frequency inverters
 
-- Simulação e documentação técnica
+- Simulation and technical documentation
 
+### Structure
 
+- `PLC`: Programming and control logic
 
-### Estrutura
+- `Diagrams`: Electrical diagrams
+  
+- `Instrumentation`: Industrial sensors and signals
 
-- `CLP`: Programação e lógica de controle
-- `Diagramas`: Diagramas elétricos
-- `Instrumentacao`: Sensores e sinais industriais
-- `Inversores`: Parametrização e aplicações
-- `Simuladores`: Ambientes de simulação
-- `Notas`: Documentação técnica
+- `Inverters`: Parameterization and applications
 
+- `Simulators`: Simulation environments
 
+- `Notes`: Technical documentation
 
-
-
-
-
-## Contribuições
-</br>
+## Contributions
 
 <p>
-Contribuições são bem-vindas! Se quiser melhorar o repositório, adicionar novas funcionalidades ou corrigir problemas, fique à vontade.
+Contributions are welcome! If you want to improve the repository, add new features, or fix problems, feel free.
+
 </p>
 <hr>
 </br>
 
-<div align="center">
- <a href="https://sidney-personal-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portifolio-%230077B5?style=for-the-badge&logo=portifolio&logoColor=white" style="border-radius: 30px" target="_blank" /></a>
- <a href="https://www.instagram.com/sidneyteodoroaraujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
- <a href="https://www.linkedin.com/in/sidey-teodoro-a-jr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank" /></a>
+<div align="center"> 
+<a href="https://sidney-personal-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portifolio-%230077B5?style=for-the-badge&logo=portifolio&logoColor=white" style="border-radius: 30px" target="_blank" /></a> 
+<a href="https://www.instagram.com/sidneyteodoroaraujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/sidey-teodoro-a-jr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank" /></a>
 </div>
