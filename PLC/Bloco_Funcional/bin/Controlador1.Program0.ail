@@ -1,0 +1,4 @@
+(* line 0001 *)
+FUNCTION_BLOCK_END Application.PartidaDireta.PartidaDireta_1 ( Liga Desliga Motor )
+END_LINE
+

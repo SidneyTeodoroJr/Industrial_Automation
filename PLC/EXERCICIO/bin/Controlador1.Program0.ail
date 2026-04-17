@@ -1,0 +1,38 @@
+(* line 0001 *)
+ld closed_contact MT1
+out_end coil LDES
+END_LINE
+
+(* line 0002 *)
+ld opened_contact BL
+or opened_contact MT1
+and closed_contact MDEF
+and closed_contact BD
+
+out_end coil MT1
+END_LINE
+
+(* line 0003 *)
+FUNCTION_BLOCK_END IEC61131.CTU.CTU_1 ( PNPC RESET 20 MOK MCU )
+END_LINE
+
+(* line 0004 *)
+FUNCTION_BLOCK_END IEC61131.CTU.CTU_2 ( PNPI RESET 5 MDEF MDEFC )
+END_LINE
+
+(* line 0005 *)
+FUNCTION_END IEC61131.ADD ( MCU MDEFC MSOMA )
+END_LINE
+
+(* line 0006 *)
+function IEC61131.EQ ( MSOMA 20 )
+out_end coil MCOMP
+END_LINE
+
+(* line 0007 *)
+ld opened_contact MOK
+or opened_contact MDEF
+or opened_contact MCOMP
+out_end coil RESET
+END_LINE
+

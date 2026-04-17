@@ -1,0 +1,8 @@
+(* line 0001 *)
+ld closed_contact BTDesl
+ld opened_contact BTLiga
+or opened_contact Motor
+andld
+out_end coil Motor
+END_LINE
+
