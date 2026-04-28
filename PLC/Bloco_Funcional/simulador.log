@@ -1,0 +1,12 @@
+Create Simulator Singleton
+load UserPGM E:\industrial_automation\PLC\Bloco_Funcional\bin\Controlador1.bin
+Simulator: Initializing Memory
+Simulator: loading E:\industrial_automation\PLC\Bloco_Funcional\bin\Controlador1.bin
+Simulator: Starting Firmware
+Simulator: initializing Memory2
+Simulator: initSimulator
+Create TCPThread
+Setting Thread Priority to THREAD_PRIORITY_BELOW_NORMAL
+Communication server on port Communication server on port 9002 created.
+Communication server on port Communication server on port 9002 created.
+9003 created.
