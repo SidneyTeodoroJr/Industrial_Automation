@@ -15,9 +15,9 @@
             <LadderElements>
               <LadderEntity>
                 <ElementType>NormalContact</ElementType>
-                <Descriptor>%M14</Descriptor>
+                <Descriptor>%M33</Descriptor>
                 <Comment />
-                <Symbol>STOP2</Symbol>
+                <Symbol>STOP</Symbol>
                 <Row>0</Row>
                 <Column>1</Column>
                 <ChosenConnection>Down, Left, Right</ChosenConnection>
@@ -38,15 +38,6 @@
                 <ElementType>Line</ElementType>
                 <Row>0</Row>
                 <Column>3</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>NormalContact</ElementType>
-                <Descriptor>%M10</Descriptor>
-                <Comment />
-                <Symbol>SENSOR1</Symbol>
-                <Row>1</Row>
-                <Column>2</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -80,12 +71,6 @@
                 <ElementType>Line</ElementType>
                 <Row>0</Row>
                 <Column>6</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>1</Row>
-                <Column>3</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -200,44 +185,14 @@
               <LadderEntity>
                 <ElementType>Line</ElementType>
                 <Row>1</Row>
-                <Column>6</Column>
-                <ChosenConnection>Down, Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>1</Row>
                 <Column>7</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>VerticalLine</ElementType>
-                <Row>2</Row>
-                <Column>6</Column>
-                <ChosenConnection>Up, Down</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>VerticalLine</ElementType>
-                <Row>3</Row>
-                <Column>6</Column>
-                <ChosenConnection>Up, Down, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>Line</ElementType>
                 <Row>3</Row>
                 <Column>7</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>VerticalLine</ElementType>
-                <Row>4</Row>
-                <Column>6</Column>
-                <ChosenConnection>Up, Down</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>VerticalLine</ElementType>
-                <Row>5</Row>
-                <Column>6</Column>
-                <ChosenConnection>Up, Down, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>VerticalLine</ElementType>
@@ -283,18 +238,108 @@
               </LadderEntity>
               <LadderEntity>
                 <ElementType>NegatedContact</ElementType>
-                <Descriptor>%M15</Descriptor>
+                <Descriptor>%M32</Descriptor>
                 <Comment />
-                <Symbol>ON_OFF2</Symbol>
+                <Symbol>ON_OFF</Symbol>
                 <Row>0</Row>
                 <Column>0</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
-                <ElementType>None</ElementType>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M30</Descriptor>
+                <Comment />
+                <Symbol>SENSOR1</Symbol>
+                <Row>1</Row>
+                <Column>6</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M41</Descriptor>
+                <Comment />
+                <Symbol>RELE_ENTRADA6</Symbol>
+                <Row>1</Row>
+                <Column>2</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M37</Descriptor>
+                <Comment />
+                <Symbol>RELE_ENTRADA2</Symbol>
+                <Row>3</Row>
+                <Column>3</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>Line</ElementType>
+                <Row>1</Row>
+                <Column>3</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>Line</ElementType>
+                <Row>3</Row>
+                <Column>5</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>Line</ElementType>
+                <Row>3</Row>
+                <Column>4</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>3</Row>
+                <Column>2</Column>
+                <ChosenConnection>Up, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
                 <Row>2</Row>
-                <Column>1</Column>
-                <ChosenConnection>None</ChosenConnection>
+                <Column>2</Column>
+                <ChosenConnection>Up, Down</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M40</Descriptor>
+                <Comment />
+                <Symbol>RELE_ENTRADA5</Symbol>
+                <Row>5</Row>
+                <Column>4</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>Line</ElementType>
+                <Row>5</Row>
+                <Column>5</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>5</Row>
+                <Column>3</Column>
+                <ChosenConnection>Up, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>4</Row>
+                <Column>3</Column>
+                <ChosenConnection>Up, Down</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>Line</ElementType>
+                <Row>3</Row>
+                <Column>6</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>Line</ElementType>
+                <Row>5</Row>
+                <Column>6</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
               </LadderEntity>
             </LadderElements>
             <InstructionLines>
@@ -311,11 +356,11 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>ANDN  %M15</InstructionLine>
+                <InstructionLine>ANDN  %M32</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>AND   %M14</InstructionLine>
+                <InstructionLine>AND   %M33</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -335,7 +380,7 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>AND   %M10</InstructionLine>
+                <InstructionLine>AND   %M41</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -348,6 +393,10 @@
               </InstructionLineEntity>
               <InstructionLineEntity>
                 <InstructionLine>LD  %MW2009:X1</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M30</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -371,11 +420,23 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
+                <InstructionLine>LD  %MW2009:X1</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M37</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>ST  %MW2009:X2</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
                 <InstructionLine>BLK   %TM1</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>LD  %MW2009:X1</InstructionLine>
+                <InstructionLine>LD  %MW2009:X2</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -399,11 +460,23 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
+                <InstructionLine>LD  %MW2009:X2</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M40</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>ST  %MW2009:X3</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
                 <InstructionLine>BLK   %TM2</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>LD  %MW2009:X1</InstructionLine>
+                <InstructionLine>LD  %MW2009:X3</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -431,7 +504,7 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>LD  %MW2009:X1</InstructionLine>
+                <InstructionLine>LD  %MW2009:X3</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -459,7 +532,7 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>LD  %MW2009:X1</InstructionLine>
+                <InstructionLine>LD  %MW2009:X3</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -618,47 +691,17 @@
               <LadderEntity>
                 <ElementType>Line</ElementType>
                 <Row>0</Row>
-                <Column>3</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>0</Row>
                 <Column>2</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>NormalContact</ElementType>
-                <Descriptor>%M13</Descriptor>
+                <Descriptor>%M35</Descriptor>
                 <Comment />
-                <Symbol>STOP</Symbol>
+                <Symbol>STOP2</Symbol>
                 <Row>0</Row>
                 <Column>1</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>VerticalLine</ElementType>
-                <Row>1</Row>
-                <Column>6</Column>
-                <ChosenConnection>Up, Down</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>VerticalLine</ElementType>
-                <Row>2</Row>
-                <Column>6</Column>
-                <ChosenConnection>Up, Down, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>VerticalLine</ElementType>
-                <Row>3</Row>
-                <Column>6</Column>
-                <ChosenConnection>Up, Down</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>VerticalLine</ElementType>
-                <Row>4</Row>
-                <Column>6</Column>
-                <ChosenConnection>Up, Down, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>VerticalLine</ElementType>
@@ -694,16 +737,85 @@
                 <ElementType>Line</ElementType>
                 <Row>0</Row>
                 <Column>6</Column>
-                <ChosenConnection>Down, Left, Right</ChosenConnection>
+                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>NegatedContact</ElementType>
-                <Descriptor>%M12</Descriptor>
+                <Descriptor>%M34</Descriptor>
                 <Comment />
-                <Symbol>ON_OFF</Symbol>
+                <Symbol>ON_OFF2</Symbol>
                 <Row>0</Row>
                 <Column>0</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M38</Descriptor>
+                <Comment />
+                <Symbol>RELE_ENTRADA3</Symbol>
+                <Row>0</Row>
+                <Column>3</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M39</Descriptor>
+                <Comment />
+                <Symbol>RELE_ENTRADA4</Symbol>
+                <Row>2</Row>
+                <Column>4</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>2</Row>
+                <Column>3</Column>
+                <ChosenConnection>Up, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>1</Row>
+                <Column>3</Column>
+                <ChosenConnection>Up, Down</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>Line</ElementType>
+                <Row>2</Row>
+                <Column>5</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>Line</ElementType>
+                <Row>2</Row>
+                <Column>6</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>Line</ElementType>
+                <Row>4</Row>
+                <Column>5</Column>
+                <ChosenConnection>Left, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>4</Row>
+                <Column>4</Column>
+                <ChosenConnection>Up, Right</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>VerticalLine</ElementType>
+                <Row>3</Row>
+                <Column>4</Column>
+                <ChosenConnection>Up, Down</ChosenConnection>
+              </LadderEntity>
+              <LadderEntity>
+                <ElementType>NormalContact</ElementType>
+                <Descriptor>%M36</Descriptor>
+                <Comment />
+                <Symbol>RELE_ENTRADA1</Symbol>
+                <Row>4</Row>
+                <Column>6</Column>
+                <ChosenConnection>Down, Left, Right</ChosenConnection>
               </LadderEntity>
             </LadderElements>
             <InstructionLines>
@@ -720,11 +832,15 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>ANDN  %M12</InstructionLine>
+                <InstructionLine>ANDN  %M34</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>AND   %M13</InstructionLine>
+                <InstructionLine>AND   %M35</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M38</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -760,11 +876,23 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
+                <InstructionLine>LD  %MW2009:X0</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M39</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>ST  %MW2009:X1</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
                 <InstructionLine>BLK   %TM6</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>LD  %MW2009:X0</InstructionLine>
+                <InstructionLine>LD  %MW2009:X1</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -788,11 +916,23 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
+                <InstructionLine>LD  %MW2009:X1</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>AND   %M36</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
+                <InstructionLine>ST  %MW2009:X2</InstructionLine>
+                <Comment />
+              </InstructionLineEntity>
+              <InstructionLineEntity>
                 <InstructionLine>BLK   %TM7</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>LD  %MW2009:X0</InstructionLine>
+                <InstructionLine>LD  %MW2009:X2</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -820,7 +960,7 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>LD  %MW2009:X0</InstructionLine>
+                <InstructionLine>LD  %MW2009:X2</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -848,7 +988,7 @@
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
-                <InstructionLine>LD  %MW2009:X0</InstructionLine>
+                <InstructionLine>LD  %MW2009:X2</InstructionLine>
                 <Comment />
               </InstructionLineEntity>
               <InstructionLineEntity>
@@ -910,31 +1050,6 @@
     <PtosMemoryAllocation />
     <MemoryBits>
       <MemoryBit>
-        <Address>%M10</Address>
-        <Index>10</Index>
-        <Symbol>SENSOR1</Symbol>
-      </MemoryBit>
-      <MemoryBit>
-        <Address>%M12</Address>
-        <Index>12</Index>
-        <Symbol>ON_OFF</Symbol>
-      </MemoryBit>
-      <MemoryBit>
-        <Address>%M13</Address>
-        <Index>13</Index>
-        <Symbol>STOP</Symbol>
-      </MemoryBit>
-      <MemoryBit>
-        <Address>%M14</Address>
-        <Index>14</Index>
-        <Symbol>STOP2</Symbol>
-      </MemoryBit>
-      <MemoryBit>
-        <Address>%M15</Address>
-        <Index>15</Index>
-        <Symbol>ON_OFF2</Symbol>
-      </MemoryBit>
-      <MemoryBit>
         <Address>%M20</Address>
         <Index>20</Index>
         <Symbol>MOTOR1</Symbol>
@@ -983,6 +1098,61 @@
         <Address>%M29</Address>
         <Index>29</Index>
         <Symbol>MOTOR10</Symbol>
+      </MemoryBit>
+      <MemoryBit>
+        <Address>%M30</Address>
+        <Index>30</Index>
+        <Symbol>SENSOR1</Symbol>
+      </MemoryBit>
+      <MemoryBit>
+        <Address>%M32</Address>
+        <Index>32</Index>
+        <Symbol>ON_OFF</Symbol>
+      </MemoryBit>
+      <MemoryBit>
+        <Address>%M33</Address>
+        <Index>33</Index>
+        <Symbol>STOP</Symbol>
+      </MemoryBit>
+      <MemoryBit>
+        <Address>%M34</Address>
+        <Index>34</Index>
+        <Symbol>ON_OFF2</Symbol>
+      </MemoryBit>
+      <MemoryBit>
+        <Address>%M35</Address>
+        <Index>35</Index>
+        <Symbol>STOP2</Symbol>
+      </MemoryBit>
+      <MemoryBit>
+        <Address>%M36</Address>
+        <Index>36</Index>
+        <Symbol>RELE_ENTRADA1</Symbol>
+      </MemoryBit>
+      <MemoryBit>
+        <Address>%M37</Address>
+        <Index>37</Index>
+        <Symbol>RELE_ENTRADA2</Symbol>
+      </MemoryBit>
+      <MemoryBit>
+        <Address>%M38</Address>
+        <Index>38</Index>
+        <Symbol>RELE_ENTRADA3</Symbol>
+      </MemoryBit>
+      <MemoryBit>
+        <Address>%M39</Address>
+        <Index>39</Index>
+        <Symbol>RELE_ENTRADA4</Symbol>
+      </MemoryBit>
+      <MemoryBit>
+        <Address>%M40</Address>
+        <Index>40</Index>
+        <Symbol>RELE_ENTRADA5</Symbol>
+      </MemoryBit>
+      <MemoryBit>
+        <Address>%M41</Address>
+        <Index>41</Index>
+        <Symbol>RELE_ENTRADA6</Symbol>
       </MemoryBit>
     </MemoryBits>
     <SystemBits>
