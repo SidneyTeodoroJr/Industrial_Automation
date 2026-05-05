@@ -139,7 +139,7 @@
                 <Comment />
                 <Symbol>LED_MOTOR5</Symbol>
                 <Row>10</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -269,7 +269,7 @@
                 <Comment />
                 <Symbol>MOTOR3</Symbol>
                 <Row>5</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -278,7 +278,7 @@
                 <Comment />
                 <Symbol>LED_MOTOR4</Symbol>
                 <Row>8</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -287,7 +287,7 @@
                 <Comment />
                 <Symbol>LED_MOTOR3</Symbol>
                 <Row>6</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -296,7 +296,7 @@
                 <Comment />
                 <Symbol>LED_MOTOR2</Symbol>
                 <Row>4</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -305,7 +305,7 @@
                 <Comment />
                 <Symbol>LED_MOTOR1</Symbol>
                 <Row>2</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -314,7 +314,7 @@
                 <Comment />
                 <Symbol>MOTOR5</Symbol>
                 <Row>9</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -323,7 +323,7 @@
                 <Comment />
                 <Symbol>MOTOR4</Symbol>
                 <Row>7</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -332,7 +332,7 @@
                 <Comment />
                 <Symbol>MOTOR2</Symbol>
                 <Row>3</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -348,7 +348,7 @@
                 <Comment />
                 <Symbol>MOTOR1</Symbol>
                 <Row>1</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -397,306 +397,6 @@
                 <ElementType>Line</ElementType>
                 <Row>9</Row>
                 <Column>7</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>10</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>10</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>10</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>10</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>5</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>5</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>5</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>5</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>8</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>8</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>8</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>8</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>6</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>6</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>6</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>6</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>4</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>4</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>4</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>4</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>2</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>2</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>2</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>2</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>9</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>9</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>9</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>9</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>7</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>7</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>7</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>7</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>3</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>3</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>3</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>3</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>1</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>1</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>1</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>1</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>10</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>5</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>8</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>6</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>4</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>2</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>9</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>7</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>3</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>1</Row>
-                <Column>14</Column>
                 <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -1175,7 +875,7 @@
                 <Comment />
                 <Symbol>MOTOR6</Symbol>
                 <Row>0</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -1184,7 +884,7 @@
                 <Comment />
                 <Symbol>LED_MOTOR6</Symbol>
                 <Row>1</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -1193,7 +893,7 @@
                 <Comment />
                 <Symbol>MOTOR7</Symbol>
                 <Row>2</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -1202,7 +902,7 @@
                 <Comment />
                 <Symbol>LED_MOTOR7</Symbol>
                 <Row>3</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -1211,7 +911,7 @@
                 <Comment />
                 <Symbol>MOTOR8</Symbol>
                 <Row>4</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -1220,7 +920,7 @@
                 <Comment />
                 <Symbol>LED_MOTOR8</Symbol>
                 <Row>5</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -1229,7 +929,7 @@
                 <Comment />
                 <Symbol>MOTOR9</Symbol>
                 <Row>6</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -1238,7 +938,7 @@
                 <Comment />
                 <Symbol>LED_MOTOR9</Symbol>
                 <Row>7</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -1247,7 +947,7 @@
                 <Comment />
                 <Symbol>MOTOR10</Symbol>
                 <Row>8</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
@@ -1256,308 +956,8 @@
                 <Comment />
                 <Symbol>LED_MOTOR10</Symbol>
                 <Row>9</Row>
-                <Column>15</Column>
+                <Column>10</Column>
                 <ChosenConnection>Left</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>0</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>0</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>0</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>0</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>0</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>1</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>1</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>1</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>1</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>1</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>2</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>2</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>2</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>2</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>2</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>3</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>3</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>3</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>3</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>3</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>4</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>4</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>4</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>4</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>4</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>5</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>5</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>5</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>5</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>5</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>6</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>6</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>6</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>6</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>6</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>7</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>7</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>7</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>7</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>7</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>8</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>8</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>8</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>8</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>8</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>9</Row>
-                <Column>14</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>9</Row>
-                <Column>13</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>9</Row>
-                <Column>12</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>9</Row>
-                <Column>11</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
-              </LadderEntity>
-              <LadderEntity>
-                <ElementType>Line</ElementType>
-                <Row>9</Row>
-                <Column>10</Column>
-                <ChosenConnection>Left, Right</ChosenConnection>
               </LadderEntity>
               <LadderEntity>
                 <ElementType>Line</ElementType>
