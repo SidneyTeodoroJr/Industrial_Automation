@@ -19,7 +19,7 @@ Repository focused on the development and documentation of studies in Industrial
 
 - Electrical controls and power circuits
 
-- PLC programming (Ladder / FBD)
+- PLC programming 
 
 - Industrial instrumentation
 
