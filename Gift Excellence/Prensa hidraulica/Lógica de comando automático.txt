@@ -1,0 +1,1 @@
+Automático conta 10 minutos motor liga, espera 5 segundos válvula  solenoide desce e o siclo se repete N vezes
