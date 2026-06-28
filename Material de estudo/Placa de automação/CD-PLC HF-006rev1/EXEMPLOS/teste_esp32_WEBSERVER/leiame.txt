@@ -1,0 +1,3 @@
+Para utilizar corretamente o exemplo do WEBSERVER,
+Copiar o conteúdo da pasta "BIBLIOTECAS" para a pasta
+"libraries" localizada em "Documentos/Arduino/libraries"
